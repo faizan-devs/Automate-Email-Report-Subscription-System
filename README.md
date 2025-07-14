@@ -26,8 +26,7 @@ This backend project allows you to:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/faizan-devs/automate-email-report.git
-
+git clone https://github.com/faizan-devs/Automate-Email-Report-Subscription-System.git
 cd AUTOMATE-EMAIL-REPORT
 ```
 
