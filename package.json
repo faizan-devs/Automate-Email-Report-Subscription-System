@@ -5,8 +5,9 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "cron": "nodemon index.js",
+    "dev": "nodemon app.js",
+    "all": "concurrently \"npm run cron\" \"npm run dev\""
   },
   "author": "Faizan Ali",
   "license": "ISC",
